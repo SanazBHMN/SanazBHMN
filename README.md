@@ -6,11 +6,11 @@ I'm a frontend developer. In my free time, I enjoy solving coding challenges
 
 ### Challenges
 
-- ![frontendmentor](https://www.frontendmentor.io/home)
+- [frontendmentor](https://www.frontendmentor.io/home)
 
-- ![codeforces](https://codeforces.com/profile/sanaz)
+- [codeforces](https://codeforces.com/profile/sanaz)
 
-- ![leetcode](https://leetcode.com/Sanazii/)
+- [leetcode](https://leetcode.com/Sanazii/)
 
 ### Languages, Frameworks, and Tools
 
