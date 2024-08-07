@@ -14,7 +14,7 @@ I'm a frontend developer. In my free time, I enjoy solving coding challenges
 
 ### Languages, Frameworks, and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,jquery,html,css,tailwind,bootstrap,materialui,git,github,vscode,linux&perline=4&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,jquery,html,css,tailwind,bootstrap,materialui,sass,git,github,vscode,linux&perline=4&theme=dark)](https://skillicons.dev)
 
 ### How to reach me
 
