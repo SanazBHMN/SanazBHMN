@@ -20,7 +20,7 @@ I'm a **frontend developer** who loves crafting clean, user-friendly web applica
 
 ### 🚀 Projects & Contributions
 
-- **Netflix Clone** - Full-stack streaming platform with authentication and API integration **[🔗 repo](<(https://github.com/SanazBHMN/netflix-clone)>)**
+- **Netflix Clone** - Full-stack streaming platform with authentication and API integration **[🔗 repo](https://github.com/SanazBHMN/netflix-clone)**
 
 - **Multi-Step Form** - Complex form UI with validation and React state management **[🔗 repo](https://github.com/SanazBHMN/multi-step-form)**
 
